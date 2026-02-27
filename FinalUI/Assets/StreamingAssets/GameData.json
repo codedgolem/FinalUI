@@ -1,0 +1,71 @@
+{
+  "coleccionables": [
+    {
+      "nombre": "Espada del Alba",
+      "rareza": 3,
+      "valor": 1500,
+      "tipo": "Arma",
+      "descripcion": "Una espada forjada con la luz del amanecer, capaz de infligir daño adicional a criaturas oscuras.",
+      "iconoId": "Espada del Alba"
+    },
+    {
+      "nombre": "Gema Sombría",
+      "rareza": 2,
+      "valor": 900,
+      "tipo": "Recurso",
+      "descripcion": "Una piedra mística que almacena energía oscura y puede usarse para mejorar objetos especiales.",
+      "iconoId": "Gema Sombría"
+    },
+    {
+      "nombre": "Botas del Viento",
+      "rareza": 3,
+      "valor": 600,
+      "tipo": "Armadura",
+      "descripcion": "Botas encantadas que aumentan la velocidad de movimiento del portador.",
+      "iconoId": "Botas del Viento"
+    },
+    {
+      "nombre": "Pergamino Antiguo",
+      "rareza": 1,
+      "valor": 150,
+      "tipo": "Consumible",
+      "descripcion": "Un viejo pergamino con instrucciones básicas para invocar un pequeño hechizo temporal.",
+      "iconoId": "Pergamino Antiguo"
+    },
+    {
+      "nombre": "Amuleto del Guardián",
+      "rareza": 4,
+      "valor": 1100,
+      "tipo": "Accesorio",
+      "descripcion": "Un amuleto protector que reduce el daño recibido durante combates intensos.",
+      "iconoId": "Amuleto del Guardián"
+    }
+  ],
+  "misiones": [
+    {
+      "id": 1,
+      "titulo": "El despertar del héroe",
+      "descripcion": "Habla con el anciano del pueblo y acepta tu destino."
+    },
+    {
+      "id": 2,
+      "titulo": "Sombras en el bosque",
+      "descripcion": "Derrota a 10 criaturas oscuras en el bosque prohibido."
+    },
+    {
+      "id": 3,
+      "titulo": "El artefacto perdido",
+      "descripcion": "Encuentra el antiguo relicario en las ruinas del norte."
+    },
+    {
+      "id": 4,
+      "titulo": "Defensa de la aldea",
+      "descripcion": "Protege la aldea durante el ataque nocturno."
+    },
+    {
+      "id": 5,
+      "titulo": "La prueba final",
+      "descripcion": "Vence al guardián del templo y reclama la victoria."
+    }
+  ]
+}
